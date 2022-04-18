@@ -1,3 +1,12 @@
+Crud Todo app with Django backend and deployed to Heroku. 
+
+Future State: Add Login Authentication functionality and  Additional Styling.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
